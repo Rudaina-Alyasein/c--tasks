@@ -5,3 +5,10 @@ C:\Users\ruainaalyasein\Desktop\C#\task1-c#\task1-c#\obj\Debug\task1-c#.csproj.A
 C:\Users\ruainaalyasein\Desktop\C#\task1-c#\task1-c#\obj\Debug\task1-c#.csproj.CoreCompileInputs.cache
 C:\Users\ruainaalyasein\Desktop\C#\task1-c#\task1-c#\obj\Debug\task1-c#.exe
 C:\Users\ruainaalyasein\Desktop\C#\task1-c#\task1-c#\obj\Debug\task1-c#.pdb
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task1-c#\bin\Debug\task1-c#.exe.config
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task1-c#\bin\Debug\task1-c#.exe
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task1-c#\bin\Debug\task1-c#.pdb
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task1-c#\obj\Debug\task1-c#.csproj.AssemblyReference.cache
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task1-c#\obj\Debug\task1-c#.csproj.CoreCompileInputs.cache
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task1-c#\obj\Debug\task1-c#.exe
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task1-c#\obj\Debug\task1-c#.pdb

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ruainaalyasein\\Desktop\\C#\\task1-c#\\",
+  "WorkspaceRootPath": "C:\\Users\\ruainaalyasein\\Desktop\\c--tasks\\task1-c#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96938B77-8D82-49E9-A357-F94BBAF56580}|task1-c#\\task1-c#.csproj|c:\\users\\ruainaalyasein\\desktop\\c#\\task1-c#\\task1-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{665CEC15-2F6B-4D7F-A894-A5D9F8C64CDB}|task2-c#\\task2-c#.csproj|c:\\users\\ruainaalyasein\\desktop\\c--tasks\\task1-c#\\task2-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665CEC15-2F6B-4D7F-A894-A5D9F8C64CDB}|task2-c#\\task2-c#.csproj|solutionrelative:task2-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96938B77-8D82-49E9-A357-F94BBAF56580}|task1-c#\\task1-c#.csproj|c:\\users\\ruainaalyasein\\desktop\\c--tasks\\task1-c#\\task1-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96938B77-8D82-49E9-A357-F94BBAF56580}|task1-c#\\task1-c#.csproj|solutionrelative:task1-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ruainaalyasein\\Desktop\\C#\\task1-c#\\task1-c#\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruainaalyasein\\Desktop\\c--tasks\\task1-c#\\task2-c#\\Program.cs",
+              "RelativeDocumentMoniker": "task2-c#\\Program.cs",
+              "ToolTip": "C:\\Users\\ruainaalyasein\\Desktop\\c--tasks\\task1-c#\\task2-c#\\Program.cs",
+              "RelativeToolTip": "task2-c#\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAArwEcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T07:11:10.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruainaalyasein\\Desktop\\c--tasks\\task1-c#\\task1-c#\\Program.cs",
               "RelativeDocumentMoniker": "task1-c#\\Program.cs",
-              "ToolTip": "C:\\Users\\ruainaalyasein\\Desktop\\C#\\task1-c#\\task1-c#\\Program.cs",
+              "ToolTip": "C:\\Users\\ruainaalyasein\\Desktop\\c--tasks\\task1-c#\\task1-c#\\Program.cs",
               "RelativeToolTip": "task1-c#\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwCgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T13:45:25.857Z",
               "EditorCaption": ""

@@ -44,7 +44,7 @@ namespace task1_c_
             string Lname = Console.ReadLine();
             Console.Write("Your Year of Birth :");
             string year = Console.ReadLine();
-            Console.WriteLine(Fname + Lname + year);
+            Console.WriteLine(Fname +" "+ Lname +" "+ year);
             //part 5
             string[] numbers = new string[5];
             Console.WriteLine("plz insert 5 numbers");

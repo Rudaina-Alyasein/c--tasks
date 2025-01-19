@@ -1,0 +1,7 @@
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task2-c#\bin\Debug\task2-c#.exe.config
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task2-c#\bin\Debug\task2-c#.exe
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task2-c#\bin\Debug\task2-c#.pdb
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task2-c#\obj\Debug\task2-c#.csproj.AssemblyReference.cache
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task2-c#\obj\Debug\task2-c#.csproj.CoreCompileInputs.cache
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task2-c#\obj\Debug\task2-c#.exe
+C:\Users\ruainaalyasein\Desktop\c--tasks\task1-c#\task2-c#\obj\Debug\task2-c#.pdb
