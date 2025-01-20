@@ -39,7 +39,7 @@ namespace task2_c_
             int n = arr.Length;
 
                 int mid = arr[arr.Length / 2];
-                Console.WriteLine(mid);
+                Console.WriteLine("the middle number i :"+mid);
             
 
         }
@@ -100,8 +100,8 @@ namespace task2_c_
             string Digits = "123";
             int SumOfDigits = 0;
             foreach (char digit in Digits) {
-
-                SumOfDigits += Convert.ToInt32( digit);
+                int digit1 = digit - '0'; 
+                SumOfDigits += digit1;
             }
 
  
@@ -116,7 +116,7 @@ namespace task2_c_
 
 
             }
-            Console.WriteLine("the string after reversed is :"+number);
+            Console.WriteLine("the string after reversed is :"+number2);
             //11
             Console.WriteLine(IsDivisible(4, 3));
             //12
