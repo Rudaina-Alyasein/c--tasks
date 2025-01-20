@@ -71,7 +71,7 @@ namespace task2_c_
             //4 
             Console.WriteLine("plz insert your full name");
             string Fullname = Console.ReadLine();
-            Console.WriteLine("the first name is :" + Fullname.Substring(0,6));
+            Console.WriteLine("the first name is :" + Fullname.Substring(0,7));
             Console.WriteLine("the last name is :" + Fullname.Substring(8));
             Console.WriteLine("the length of full name is :" + Fullname.Length);
             //5
